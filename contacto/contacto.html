@@ -24,7 +24,7 @@
     <link href="/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
     
     <!-- Scrip Metricool -->
     <script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"16da37c67bbba854679ade3169d59c42"})});</script>
@@ -95,27 +95,28 @@
 <!-- Chatbox con diseño moderno pero funcionalidad simple -->
 
 
-<div class="wapp-chatbox" id="wappChatBox">
-    <div class="wapp-header">
-        <div class="wapp-avatar">
+    <div class="wapp-chatbox" id="wappChatBox">
+            <div class="wapp-header">
+            <div class="wapp-avatar">
+
             <!-- Avatar 3D pelirroja profesional (verificado) -->
+
             <img src="https://cdn3d.iconscout.com/3d/premium/thumb/redhead-business-woman-6299550-5187882.png" 
-                 onerror="this.src='https://cdn-icons-png.flaticon.com/512/4140/4140047.png'" 
-                 alt="Asistente Pelirroja"
-                 class="avatar-redhead">
+            onerror="this.src='https:/cdn-icons-png.flaticon.com/512/4140/4140047.png'" 
+            alt="Asistente Pelirroja"
+            class="avatar-redhead">
             <div class="wapp-status online"></div>
+            </div>
+            <div class="wapp-info">
+                <h4>Atención al Cliente</h4>
+                <p>Respuesta inmediata</p>
+            </div>
+            <button class="wapp-close" onclick="toggleWappChat()">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
+                    <path d="M342.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L192 210.7 86.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L146.7 256 41.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L192 301.3 297.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L237.3 256 342.6 150.6z"/>
+                </svg>
+            </button>
         </div>
-        <div class="wapp-info">
-            <h4>Atención al Cliente</h4>
-            <p>Respuesta inmediata</p>
-        </div>
-        <button class="wapp-close" onclick="toggleWappChat()">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
-                <path d="M342.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L192 210.7 86.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L146.7 256 41.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L192 301.3 297.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L237.3 256 342.6 150.6z"/>
-            </svg>
-        </button>
-    </div>
-</div>
 
         <div class="wapp-body">
             <!-- Mensaje de bienvenida -->
