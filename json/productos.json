@@ -1,0 +1,876 @@
+  {
+    "aditivos-fibras": {
+
+      "fibras": [
+{
+    "cat": "AF",
+    "ID": "AF-1",
+    "categoria": "aditivos-fibras",
+    "subcategoria": "fibras",
+    "ftec": "/productos/htecnicas/fibras&tranferencias/AF/AF-1.pdf",
+    "nombre": "Malla Fibra de Vidrio",
+    "imagen": "/productos/fibras&tranferencias/img/AF/AF-1.webp",
+    "url": "/productos/all_products.html?id=AF-1",
+    "descripcion": "Este producto es ideal para reforzar estructuras.<br><ul><li>GRANDE</li><li>PEQUE�O</li><li>MEDIANO</li></ul>"
+  },
+  {
+    "cat": "AF",
+    "ID": "AF-2",
+    "categoria": "aditivos-fibras",
+    "subcategoria": "fibras",
+    "ftec": "/productos/htecnicas/fibras&tranferencias/AF/AF-2.pdf",
+    "nombre": "Fibra Macrosintetica",
+    "imagen": "/productos/fibras&tranferencias/img/AF/AF-2.webp",
+    "url": "/productos/all_products.html?id=AF-2",
+    "descripcion": "Este producto es ideal para reforzar estructuras.<br><ul><li>GRANDE</li><li>PEQUE�O</li><li>MEDIANO</li></ul>"
+  },
+  {
+    "cat": "AF",
+    "ID": "AF-3",
+    "categoria": "aditivos-fibras",
+    "subcategoria": "fibras",
+    "ftec": "/productos/htecnicas/fibras&tranferencias/AF/AF-3.pdf",
+    "nombre": "Fibra Met�lica 3G",
+    "imagen": "/productos/fibras&tranferencias/img/AF/AF-3.webp",
+    "url": "/productos/all_products.html?id=AF-3",
+    "descripcion": "Este producto es ideal para reforzar estructuras.<br><ul><li>GRANDE</li><li>PEQUE�O</li><li>MEDIANO</li></ul>"
+  },
+  {
+    "cat": "AA",
+    "ID": "AA-1",
+    "categoria": "aditivos-fibras",
+    "subcategoria": "aditivos",
+    "ftec": "/productos/htecnicas/fibras&tranferencias/AA/AA-1.pdf",
+    "nombre": "Endurecedor",
+    "imagen": "/productos/fibras&tranferencias/img/AA/AA-1.webp",
+    "url": "/productos/all_products.html?id=AA-1",
+    "descripcion": "Este producto es ideal para reforzar estructuras.<br><ul><li>GRANDE</li><li>PEQUE�O</li><li>MEDIANO</li></ul>"
+  },
+  {
+    "cat": "AA",
+    "ID": "AA-2",
+    "categoria": "aditivos-fibras",
+    "subcategoria": "aditivos",
+    "ftec": "/productos/htecnicas/fibras&tranferencias/AA/AA-2.pdf",
+    "nombre": "Curador Day 1",
+    "imagen": "/productos/fibras&tranferencias/img/AA/AA-2.webp",
+    "url": "/productos/all_products.html?id=AA-2",
+    "descripcion": "Este producto es ideal para reforzar estructuras.<br><ul><li>GRANDE</li><li>PEQUE�O</li><li>MEDIANO</li></ul>"
+  },
+  {
+    "cat": "AA",
+    "ID": "AA-3",
+    "categoria": "aditivos-fibras",
+    "subcategoria": "aditivos",
+    "ftec": "/productos/htecnicas/fibras&tranferencias/AA/AA-3.pdf",
+    "nombre": "Lythic",
+    "imagen": "/productos/fibras&tranferencias/img/AA/AA-3.webp",
+    "url": "/productos/all_products.html?id=AA-3",
+    "descripcion": "Este producto es ideal para reforzar estructuras.<br><ul><li>GRANDE</li><li>PEQUE�O</li><li>MEDIANO</li></ul>"
+  },
+  {
+    "cat": "AC",
+    "ID": "AC-1",
+    "categoria": "aditivos-fibras",
+    "subcategoria": "transferencia-carga",
+    "ftec": "/productos/htecnicas/fibras&tranferencias/AT/AT-1.pdf",
+    "nombre": "Openinig-Dowels",
+    "imagen": "/productos/fibras&tranferencias/img/AT/AT-1.webp",
+    "url": "/productos/all_products.html?id=AC-1",
+    "descripcion": "Este producto es ideal para reforzar estructuras.<br><ul><li>GRANDE</li><li>PEQUE�O</li><li>MEDIANO</li></ul>"
+  }
+      ]
+    },
+
+    
+    "consumibles": [
+
+  {
+    "ID": "CO-1",
+    "categoria": "consumibles",
+    "subcategoria": "consumibles",
+    "nombre": "Aspa Metálica 24”",
+    "imagen": "/productos/consumibles/img/CO/CO-1.webp",
+    "url": "/productos/all_products.html?id=CO-1"
+  },
+  {
+    "ID": "CO-2",
+    "categoria": "consumibles",
+    "subcategoria": "consumibles",
+    "nombre": "Aspa Metálica 36”",
+    "imagen": "/productos/consumibles/img/CO/CO-2.webp",
+    "url": "/productos/all_products.html?id=CO-2"
+  },
+  {
+    "ID": "CO-3",
+    "categoria": "consumibles",
+    "subcategoria": "consumibles",
+    "nombre": "Aspa Plástica 24”",
+    "imagen": "/productos/consumibles/img/CO/CO-3.webp",
+    "url": "/productos/all_products.html?id=CO-3"
+  },
+  {
+    "ID": "CO-4",
+    "categoria": "consumibles",
+    "subcategoria": "consumibles",
+    "nombre": "Aspa Plástica 36”",
+    "imagen": "/productos/consumibles/img/CO/CO-4.webp",
+    "url": "/productos/all_products.html?id=CO-4"
+  },
+  {
+    "ID": "CO-5",
+    "categoria": "consumibles",
+    "subcategoria": "consumibles",
+    "nombre": "Plato Metálico 24”",
+    "imagen": "/productos/consumibles/img/CO/CO-5.webp",
+    "url": "/productos/all_products.html?id=CO-5"
+  },
+  {
+    "ID": "CO-6",
+    "categoria": "consumibles",
+    "subcategoria": "consumibles",
+    "nombre": "Plato Metálico 36”",
+    "imagen": "/productos/consumibles/img/CO/CO-6.webp",
+    "url": "/productos/all_products.html?id=CO-6"
+  },
+  {
+    "ID": "CO-7",
+    "categoria": "consumibles",
+    "subcategoria": "consumibles",
+    "nombre": "Disco de corte Concreto Fresco",
+    "imagen": "/productos/consumibles/img/CO/CO-7.webp",
+    "url": "/productos/all_products.html?id=CO-7"
+  },
+  {
+    "ID": "CO-8",
+    "categoria": "consumibles",
+    "subcategoria": "consumibles",
+    "nombre": "Disco de  corte Concreto Endurecido",
+    "imagen": "/productos/consumibles/img/CO/CO-8.webp",
+    "url": "/productos/all_products.html?id=CO-8"
+  },
+  {
+    "ID": "CO-9",
+    "categoria": "consumibles",
+    "subcategoria": "consumibles",
+    "nombre": "Copa Diamantada",
+    "imagen": "/productos/consumibles/img/CO/CO-9.webp",
+    "url": "/productos/all_products.html?id=CO-9"
+  },
+  {
+    "ID": "CO-10",
+    "categoria": "consumibles",
+    "subcategoria": "consumibles",
+    "nombre": "Piedra de Desbaste",
+    "imagen": "/productos/consumibles/img/CO/CO-10.webp",
+    "url": "/productos/all_products.html?id=CO-10"
+  }
+],
+   
+
+     
+    "equipos": {
+      "equipos-concreto": [
+  {
+    "ID": "EC-1",
+    "categoria": "equipos",
+    "subcategoria": "equipos-concreto",
+    "nombre": "Bordeadora 24”",
+    "imagen": "/productos/Equipos/img/EC/EC-1.webp",
+    "url": "/productos/all_products.html?id=EC-1"
+  },
+  {
+    "ID": "EC-2",
+    "categoria": "equipos",
+    "subcategoria": "equipos-concreto",
+    "nombre": "Allanadora sencilla 46”",
+    "imagen": "/productos/Equipos/img/EC/EC-2.webp",
+    "url": "/productos/all_products.html?id=EC-2"
+  },
+  {
+    "ID": "EC-3",
+    "categoria": "equipos",
+    "subcategoria": "equipos-concreto",
+    "nombre": "Burnischer",
+    "imagen": "/productos/Equipos/img/EC/EC-3.webp",
+    "url": "/productos/all_products.html?id=EC-3"
+  },
+  {
+    "ID": "EC-4",
+    "categoria": "equipos",
+    "subcategoria": "equipos-concreto",
+    "nombre": "Magic Screed",
+    "imagen": "/productos/Equipos/img/EC/EC-4.webp",
+    "url": "/productos/all_products.html?id=EC-4"
+  },
+  {
+    "ID": "EC-5",
+    "categoria": "equipos",
+    "subcategoria": "equipos-concreto",
+    "nombre": "Cortadora de Piso",
+    "imagen": "/productos/Equipos/img/EC/EC-5.webp",
+    "url": "/productos/all_products.html?id=EC-5"
+  },
+  {
+    "ID": "EC-6",
+    "categoria": "equipos",
+    "subcategoria": "equipos-concreto",
+    "nombre": "Cortadora de Piso Bison",
+    "imagen": "/productos/Equipos/img/EC/EC-6.webp",
+    "url": "/productos/all_products.html?id=EC-6"
+  }
+
+ 
+],
+      "equipos-mezcla": [
+  {
+    "ID": "EM-1",
+    "categoria": "equipos",
+    "subcategoria": "equipos-mezcla",
+    "nombre": "Mezclador Eléctrico Sencillo",
+    "imagen": "/productos/Equipos/img/EM/EM-1.webp",
+    "url": "/productos/all_products.html?id=EM-1"
+  },
+  {
+    "ID": "EM-2",
+    "categoria": "equipos",
+    "subcategoria": "equipos-mezcla",
+    "nombre": "Mezclador Eléctrico Doble",
+    "imagen": "/productos/Equipos/img/EM/EM-2.webp",
+    "url": "/productos/all_products.html?id=EM-2"
+  },
+  {
+    "ID": "EM-3",
+    "categoria": "equipos",
+    "subcategoria": "equipos-mezcla",
+    "nombre": "Mezclador Eléctrico Doble Ronix",
+    "imagen": "/productos/Equipos/img/EM/EM-3.webp",
+    "url": "/productos/all_products.html?id=EM-3"
+  }
+
+],
+
+
+            "equipos-piso": [
+{
+    "ID": "EP-1",
+    "categoria": "equipos",
+    "subcategoria": "equipos-piso",
+    "nombre": "Escarificadora 8”",
+    "imagen": "/productos/Equipos/img/EP/EP-1.webp",
+    "url": "/productos/all_products.html?id=EP-1"
+  },
+  {
+    "ID": "EP-2",
+    "categoria": "equipos",
+    "subcategoria": "equipos-piso",
+    "nombre": "Escarificadora 10”",
+    "imagen": "/productos/Equipos/img/EP/EP-2.webp",
+    "url": "/productos/all_products.html?id=EP-2"
+  },
+
+  {
+    "ID": "EP-3",
+    "categoria": "equipos",
+    "subcategoria": "equipos-piso",
+    "nombre": "Pulidora de Piso10”",
+    "imagen": "/productos/Equipos/img/EP/EP-3.webp",
+    "url": "/productos/all_products.html?id=EP-3"
+  }
+
+      ]
+
+},
+    "herramientas": {
+      "herramientas-concreto": [
+{
+    "ID": "HC-1",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Adaptador Cepillo Texturizador",
+    "imagen": "/productos/herramientas/img/HC/HC-1.webp",
+    "url": "/productos/all_products.html?id=HC-1"
+  },
+  {
+    "ID": "HC-2",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Tubo Extensor",
+    "imagen": "/productos/herramientas/img/HC/HC-2.webp",
+    "url": "/productos/all_products.html?id=HC-2"
+  },
+  {
+    "ID": "HC-3",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Bordeadora",
+    "imagen": "/productos/herramientas/img/HC/HC-3.webp",
+    "url": "/productos/all_products.html?id=HC-3"
+  },
+  {
+    "ID": "HC-4",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Cabezote de Cadena",
+    "imagen": "/productos/herramientas/img/HC/HC-4.webp",
+    "url": "/productos/all_products.html?id=HC-4"
+  },
+  {
+    "ID": "HC-5",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Cabezote de Grasera",
+    "imagen": "/productos/herramientas/img/HC/HC-5.webp",
+    "url": "/productos/all_products.html?id=HC-5"
+  },
+  {
+    "ID": "HC-6",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Cabezote de Vastago",
+    "imagen": "/productos/herramientas/img/HC/HC-6.webp",
+    "url": "/productos/all_products.html?id=HC-6"
+  },
+  {
+    "ID": "HC-7",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Dientes Cepillo texturizador",
+    "imagen": "/productos/herramientas/img/HC/HC-7.webp",
+    "url": "/productos/all_products.html?id=HC-7"
+  },
+  {
+    "ID": "HC-8",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Llana Cuadrada acero azul",
+    "imagen": "/productos/herramientas/img/HC/HC-8.webp",
+    "url": "/productos/all_products.html?id=HC-8"
+  },
+  {
+    "ID": "HC-9",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Llana Redonda acero azul",
+    "imagen": "/productos/herramientas/img/HC/HC-9.webp",
+    "url": "/productos/all_products.html?id=HC-9"
+  },
+  {
+    "ID": "HC-10",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Llana cuadrada acero al carbon",
+    "imagen": "/productos/herramientas/img/HC/HC-10.webp",
+    "url": "/productos/all_products.html?id=HC-10"
+  },
+  {
+    "ID": "HC-11",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Llana Redonda acero al carbon",
+    "imagen": "/productos/herramientas/img/HC/HC-11.webp",
+    "url": "/productos/all_products.html?id=HC-11"
+  },
+  {
+    "ID": "HC-12",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Cepillo Texturizador",
+    "imagen": "/productos/herramientas/img/HC/HC-12.webp",
+    "url": "/productos/all_products.html?id=HC-12"
+  },
+  {
+    "ID": "HC-13",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Cepillo Microtexturizador",
+    "imagen": "/productos/herramientas/img/HC/HC-13.webp",
+    "url": "/productos/all_products.html?id=HC-13"
+  },
+  {
+    "ID": "HC-14",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Flotador de Magnesio",
+    "imagen": "/productos/herramientas/img/HC/HC-14.webp",
+    "url": "/productos/all_products.html?id=HC-14"
+  },
+  {
+    "ID": "HC-15",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Llana Metálica Punta Cuadrada",
+    "imagen": "/productos/herramientas/img/HC/HC-15.webp",
+    "url": "/productos/all_products.html?id=HC-15"
+  },
+  {
+    "ID": "HC-16",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Llana Metálica Punta Redonda",
+    "imagen": "/productos/herramientas/img/HC/HC-16.webp",
+    "url": "/productos/all_products.html?id=HC-16"
+  },
+  {
+    "ID": "HC-17",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Llana Dentada",
+    "imagen": "/productos/herramientas/img/HC/HC-17.webp",
+    "url": "/productos/all_products.html?id=HC-17"
+  },
+  {
+    "ID": "HC-18",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Llana Media Caña",
+    "imagen": "/productos/herramientas/img/HC/HC-18.webp",
+    "url": "/productos/all_products.html?id=HC-18"
+  },
+  {
+    "ID": "HC-19",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Bordeadora Grande",
+    "imagen": "/productos/herramientas/img/HC/HC-19.webp",
+    "url": "/productos/all_products.html?id=HC-19"
+  },
+  {
+    "ID": "HC-20",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Llana Metálica Esquinera",
+    "imagen": "/productos/herramientas/img/HC/HC-20.webp",
+    "url": "/productos/all_products.html?id=HC-20"
+  },
+  {
+    "ID": "HC-21",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Marcador de Juntas",
+    "imagen": "/productos/herramientas/img/HC/HC-21.webp",
+    "url": "/productos/all_products.html?id=HC-21"
+  },
+  {
+    "ID": "HC-22",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Pistola de calafateo",
+    "imagen": "/productos/herramientas/img/HC/HC-22.webp",
+    "url": "/productos/all_products.html?id=HC-22"
+  },
+  {
+    "ID": "HC-23",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Bump Cuter",
+    "imagen": "/productos/herramientas/img/HC/HC-23.webp",
+    "url": "/productos/all_products.html?id=HC-23"
+  },
+  {
+    "ID": "HC-24",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Check Rod",
+    "imagen": "/productos/herramientas/img/HC/HC-24.webp",
+    "url": "/productos/all_products.html?id=HC-24"
+  },
+  {
+    "ID": "HC-25",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Rastrillo",
+    "imagen": "/productos/herramientas/img/HC/HC-25.webp",
+    "url": "/productos/all_products.html?id=HC-25"
+  },
+  {
+    "ID": "HC-26",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Flota Madona - Acero al Carbon",
+    "imagen": "/productos/herramientas/img/HC/HC-26.webp",
+    "url": "/productos/all_products.html?id=HC-26"
+  },
+  {
+    "ID": "HC-27",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-concreto",
+    "nombre": "Flota Madona - Acero Azul",
+    "imagen": "/productos/herramientas/img/HC/HC-27.webp",
+    "url": "/productos/all_products.html?id=HC-27"
+  }
+      ],
+      "herramientas-recubrimiento": [
+  {
+    "ID": "HR-1",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-recubrimiento",
+    "nombre": "Squeegue Dentado en V",
+    "imagen": "/productos/herramientas/img/HR/HR-1.webp",
+    "url": "/productos/all_products.html?id=HR-1"
+  },
+  {
+    "ID": "HR-2",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-recubrimiento",
+    "nombre": "Squeegue en Poliuretano en V",
+    "imagen": "/productos/herramientas/img/HR/HR-2.webp",
+    "url": "/productos/all_products.html?id=HR-2"
+  },
+  {
+    "ID": "HR-3",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-recubrimiento",
+    "nombre": "Squeegue Metálico en U",
+    "imagen": "/productos/herramientas/img/HR/HR-3.webp",
+    "url": "/productos/all_products.html?id=HR-3"
+  },
+  {
+    "ID": "HR-4",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-recubrimiento",
+    "nombre": "Squeegue Liso",
+    "imagen": "/productos/herramientas/img/HR/HR-4.webp",
+    "url": "/productos/all_products.html?id=HR-4"
+  },
+  {
+    "ID": "HR-5",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-recubrimiento",
+    "nombre": "Niveladora de recubrimientos",
+    "imagen": "/productos/herramientas/img/HR/HR-5.webp",
+    "url": "/productos/all_products.html?id=HR-5"
+  },
+  {
+    "ID": "HR-6",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-recubrimiento",
+    "nombre": "Boquilla Pistola de Calafateo",
+    "imagen": "/productos/herramientas/img/HR/HR-6.webp",
+    "url": "/productos/all_products.html?id=HR-6"
+  },
+  {
+    "ID": "HR-7",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-recubrimiento",
+    "nombre": "Zapatos de Púas",
+    "imagen": "/productos/herramientas/img/HR/HR-7.webp",
+    "url": "/productos/all_products.html?id=HR-7"
+  },
+  {
+    "ID": "HR-8",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-recubrimiento",
+    "nombre": "Rodillo de púas",
+    "imagen": "/productos/herramientas/img/HR/HR-8.webp",
+    "url": "/productos/all_products.html?id=HR-8"
+  },
+  {
+    "ID": "HR-9",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-recubrimiento",
+    "nombre": "Rodillo Epóxico 250mm",
+    "imagen": "/productos/herramientas/img/HR/HR-9.webp",
+    "url": "/productos/all_products.html?id=HR-9"
+  },
+  {
+    "ID": "HR-10",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-recubrimiento",
+    "nombre": "Rodillo Sencillo Polipropileno",
+    "imagen": "/productos/herramientas/img/HR/HR-10.webp",
+    "url": "/productos/all_products.html?id=HR-10"
+  },
+  {
+    "ID": "HR-11",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-recubrimiento",
+    "nombre": "Rodillo Metálico 500 mm",
+    "imagen": "/productos/herramientas/img/HR/HR-11.webp",
+    "url": "/productos/all_products.html?id=HR-11"
+  },
+  {
+    "ID": "HR-12",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-recubrimiento",
+    "nombre": "Medidor de espesor",
+    "imagen": "/productos/herramientas/img/HR/HR-12.webp",
+    "url": "/productos/all_products.html?id=HR-12"
+  }
+      ],
+      "herramientas-hogar": [
+{
+    "ID": "HG-1",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-hogar",
+    "nombre": "Aspirador - Soplador Eléctrico",
+    "imagen": "/productos/herramientas/img/HH/HG-1.webp",
+    "url": "/productos/all_products.html?id=HG-1"
+  },
+  {
+    "ID": "HG-2",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-hogar",
+    "nombre": "Juego de Llaves de Vaso",
+    "imagen": "/productos/herramientas/img/HH/HG-2.webp",
+    "url": "/productos/all_products.html?id=HG-2"
+  },
+  {
+    "ID": "HH-3",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-hogar",
+    "nombre": "Juego de Llaves Combinadas",
+    "imagen": "/productos/herramientas/img/HH/HH-3.webp",
+    "url": "/productos/herramientas/pages/HH/HH-3.html"
+  },
+  {
+    "ID": "HH-4",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-hogar",
+    "nombre": "Pulidora Angular Inálambrica",
+    "imagen": "/productos/herramientas/img/HH/HH-4.webp",
+    "url": "/productos/herramientas/pages/HH/HH-4.html"
+  },
+  {
+    "ID": "HH-5",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-hogar",
+    "nombre": "Taladro Eléctrico",
+    "imagen": "/productos/herramientas/img/HH/HH-5.webp",
+    "url": "/productos/herramientas/pages/HH/HH-5.html"
+  },
+  {
+    "ID": "HH-6",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-hogar",
+    "nombre": "Percutor Inalámbricodo",
+    "imagen": "/productos/herramientas/img/HH/HH-6.webp",
+    "url": "/productos/herramientas/pages/HH/HH-6.html"
+  },
+  {
+    "ID": "HH-7",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-hogar",
+    "nombre": "Hidrolavadora",
+    "imagen": "/productos/herramientas/img/HH/HH-7.webp",
+    "url": "/productos/herramientas/pages/HH/HH-7.html"
+  },
+  {
+    "ID": "HH-8",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-hogar",
+    "nombre": "Escalera 3 pasos",
+    "imagen": "/productos/herramientas/img/HH/HH-8.webp",
+    "url": "/productos/herramientas/pages/HH/HH-8.html"
+  },
+  {
+    "ID": "HH-9",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-hogar",
+    "nombre": "Gato Hidráulico de Botella",
+    "imagen": "/productos/herramientas/img/HH/HH-9.webp",
+    "url": "/productos/herramientas/pages/HH/HH-9.html"
+  },
+  {
+    "ID": "HH-10",
+    "categoria": "herramientas",
+    "subcategoria": "herramientas-hogar",
+    "nombre": "Careta de Soldadura",
+    "imagen": "/productos/herramientas/img/HH/HH-10.webp",
+    "url": "/productos/herramientas/pages/HH/HH-10.html"
+  }
+      ]
+    },
+    "repuestos": {
+
+      "escarificadora": [
+ {
+    "ID": "RE-1",
+    "categoria": "repuestos",
+    "subcategoria": "escarificadora",
+    "nombre": "Fresa Escarificadora 6 Puntas",
+    "imagen": "/productos/repuestos/img/RE/RE-1.webp",
+    "url": "/productos/repuestos/pages/RE/RE-1.webp"
+  },
+  {
+    "ID": "RE-2",
+    "categoria": "repuestos",
+    "subcategoria": "escarificadora",
+    "nombre": "Fresa Escarificadora 8 Puntas",
+    "imagen": "/productos/repuestos/img/RE/RE-2.webp",
+    "url": "/productos/repuestos/pages/RE/RE-2.webp"
+  },
+  {
+    "ID": "RE-3",
+    "categoria": "repuestos",
+    "subcategoria": "escarificadora",
+    "nombre": "Guaya de Elevación",
+    "imagen": "/productos/repuestos/img/RE/RE-3.webp",
+    "url": "/productos/repuestos/pages/RE/RE-3.webp"
+  },
+  {
+    "ID": "RE-4",
+    "categoria": "repuestos",
+    "subcategoria": "escarificadora",
+    "nombre": "Portafresas 500 mm",
+    "imagen": "/productos/repuestos/img/RE/RE-4.webp",
+    "url": "/productos/repuestos/pages/RE/RE-4.webp"
+  },
+  {
+    "ID": "RE-5",
+    "categoria": "repuestos",
+    "subcategoria": "escarificadora",
+    "nombre": "Portafresas 250 mm",
+    "imagen": "/productos/repuestos/img/RE/RE-5.webp",
+    "url": "/productos/repuestos/pages/RE/RE-5.webp"
+  }
+      ],
+      "Correas": [
+  {
+    "ID": "RC-1",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Correa Cortador de Piso",
+    "imagen": "/productos/repuestos/img/RC/RC-1.webp",
+    "url": "/productos/repuestos/pages/RC/RC-1.webp"
+  },
+  {
+    "ID": "RC-2",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Correa Bauker 6 Canales",
+    "imagen": "/productos/repuestos/img/RC/RC-2.webp",
+    "url": "/productos/repuestos/pages/RC/RC-2.webp"
+  },
+  {
+    "ID": "RC-3",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Correa ToolCraft 8 Canales",
+    "imagen": "/productos/repuestos/img/RC/RC-3.webp",
+    "url": "/productos/repuestos/pages/RC/RC-3.webp"
+  },
+  {
+    "ID": "RC-4",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Motor Biston 13 Hp",
+    "imagen": "/productos/repuestos/img/RC/RC-4.webp",
+    "url": "/productos/repuestos/pages/RC/RC-4.webp"
+  },
+  {
+    "ID": "RC-5",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Motor Gx35",
+    "imagen": "/productos/repuestos/img/RC/RC-5.webp",
+    "url": "/productos/repuestos/pages/RC/RC-5.webp"
+  },
+  {
+    "ID": "RC-6",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Motor Bison Bs35",
+    "imagen": "/productos/repuestos/img/RC/RC-6.webp",
+    "url": "/productos/repuestos/pages/RC/RC-6.webp"
+  },
+  {
+    "ID": "RC-7",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Motor Bison Bs177F",
+    "imagen": "/productos/repuestos/img/RC/RC-7.webp",
+    "url": "/productos/repuestos/pages/RC/RC-7.webp"
+  },
+  {
+    "ID": "RC-8",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Guaya Acelerador Allanadora",
+    "imagen": "/productos/repuestos/img/RC/RC-8.webp",
+    "url": "/productos/repuestos/pages/RC/RC-8.webp"
+  },
+  {
+    "ID": "RC-9",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Guaya Acelerador Magic Screed",
+    "imagen": "/productos/repuestos/img/RC/RC-9.webp",
+    "url": "/productos/repuestos/pages/RC/RC-9.webp"
+  },
+  {
+    "ID": "RC-10",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Cepillo de Lavado Allanadora",
+    "imagen": "/productos/repuestos/img/RC/RC-10.webp",
+    "url": "/productos/repuestos/pages/RC/RC-10.webp"
+  },
+  {
+    "ID": "RC-11",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Embrague Motor Honda",
+    "imagen": "/productos/repuestos/img/RC/RC-11.webp",
+    "url": "/productos/repuestos/pages/RC/RC-11.webp"
+  },
+  {
+    "ID": "RC-12",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Aspas de mezclado",
+    "imagen": "/productos/repuestos/img/RC/RC-12.webp",
+    "url": "/productos/repuestos/pages/RC/RC-12.webp"
+  },
+  {
+    "ID": "RC-13",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Tanque Cortadora de piso",
+    "imagen": "/productos/repuestos/img/RC/RC-13.webp",
+    "url": "/productos/repuestos/pages/RC/RC-13.webp"
+  },
+  {
+    "ID": "RC-14",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Interruptor Mezcladora Bauker",
+    "imagen": "/productos/repuestos/img/RC/RC-14.webp",
+    "url": "/productos/repuestos/pages/RC/RC-14.webp"
+  },
+  {
+    "ID": "RC-15",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Empaque Magis Screed",
+    "imagen": "/productos/repuestos/img/RC/RC-15.webp",
+    "url": "/productos/repuestos/pages/RC/RC-15.webp"
+  },
+  {
+    "ID": "RC-16",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Palanca On/Off Allanadora",
+    "imagen": "/productos/repuestos/img/RC/RC-16.webp",
+    "url": "/productos/repuestos/pages/RC/RC-16.webp"
+  },
+  {
+    "ID": "RC-17",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Botones de Seguridad Tubo",
+    "imagen": "/productos/repuestos/img/RC/RC-17.webp",
+    "url": "/productos/repuestos/pages/RC/RC-17.webp"
+  },
+  {
+    "ID": "RC-18",
+    "categoria": "repuestos",
+    "subcategoria": "correas",
+    "nombre": "Extensor",
+    "imagen": "/productos/repuestos/img/RC/RC-18.webp",
+    "url": "/productos/repuestos/pages/RC/RC-18.webp"
+  }
+
+      ]
+    }
+  }
