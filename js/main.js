@@ -572,8 +572,8 @@ async function cargarJSON() {
   const posibles = [
     "./json/productos.json",
     "../json/productos.json",
-    "/SumPro_Web/json/productos.json",  // si tu sitio cuelga de /SumPro_Web/
-    "/json/productos.json"
+    "SumPro_Web/json/productos.json",  // si tu sitio cuelga de /SumPro_Web/
+    "json/productos.json"
   ];
 
   for (const url of posibles) {
@@ -599,7 +599,7 @@ function getProductoId() {
   if (id) return id.trim();
 
   // fallback: si algún día usas productos/HC-23.html
-  const fname = location.pathname.split("/").pop() || "";
+  const fname = location.pathname.split("").pop() || "";
   if (fname.endsWith(".html")) return fname.replace(".html", "");
   return null;
 }
